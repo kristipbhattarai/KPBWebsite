@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Who The Heck is Kristi Bhattarai?</title>
+    <style>
+        body {
+            font-family: Times New Roman, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background: #6200ea;
+            color: #fff;
+            padding: 1rem;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            gap: 1rem;
+            background: #3700b3;
+            padding: 0.5rem;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        section {
+            padding: 2rem;
+            max-width: 800px;
+            margin: auto;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 1rem;
+            background: #6200ea;
+            color: #fff;
+            margin-top: 2rem;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Who the Heck is Kristi Bhattarai?</h1>
+        <p>21 | George Mason University Business Information Systems | Musician </p>
+    </header>
+    <nav>
+        <a href="#about">About Me</a>
+        <a href="#projects">My Background</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hi, I'm Kristi! I'm a college student majoring in Business Information Systems at George Mason University. Currently I have a passion for creativity, whether that's through designing websites or creating music. It's important to stand-out, but more importantly, everyone should want to feel proud of themselves and their accomplishments. This is what this website is for.</p>
+    </section>
+    <section id="projects">
+        <h2> Professional Skills</h2>
+        <ul>
+            <li>Adobe Photoshop and Adobe Premiere Pro Certified</li>
+            <li>Microsoft Word Certified</li>
+            <li>HTML5, Python, SQL</li>
+            <li>CRE Analysis and Market Research</li>
+            <li>AWS and Azure </li> 
+            <li>Organization</li>
+            <li>Leadership</li>
+            <li>Data Analytics</li>
+            <li>Customer Service</li>
+        </ul>
+      <h2> Creative Accomplishments</h2>
+          <li>Self-taught musician in guitar and piano.</li>
+          <li>Offered to open for Nepali Artist Sushant KC.</li>
+          <li>GMU Patriot Pitches Executive Member.</li>
+          <p>Soundcloud: <a href="https://soundcloud.com/bhattaraix-161441680?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing" target="_blank">RAIX</a></p>
+        </ul>   
+    </section>
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:kristi.bhattarai@gmail.com">kristi.bhattarai@gmail.com</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/kristi-bhattarai-26420b242/" target="_blank">Kristi Bhattarai</a></p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Kristi Bhattarai - Postive Content Only</p>
+    </footer>
+</body>
+</html>
